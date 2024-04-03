@@ -18,11 +18,11 @@
 * truck
 
 
-Модель:
+## Модель:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/model_2.png)
 
-Графики:
+## Графики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/loss.png)
 
@@ -32,10 +32,10 @@
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/f1.png)
 
-Метрики:
+## Метрики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/metrics.png)
 
-Демонстрация работы:
+## Демонстрация работы:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/images.png)
