@@ -6,22 +6,20 @@ Anomaly Detection
 
 Автоэнкодер
 
-<img width="528" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/model.png">
+<img width="400" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/model.png">
 
-<img width="525" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/Screenshot%202024-04-03%20at%2006.35.29.png">
+<img width="400" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/validation_plot.png">
 
 Работа автоэнкодера
 
-<img width="535" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/Screenshot%202024-04-03%20at%2006.35.48.png">
-
-<img width="535" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/Screenshot%202024-04-03%20at%2006.36.05.png">
+<img width="400" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/original_and_procceced_2.png">
 
 Параметр mse для отнесения к проливу
 
-<img width="759" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/Screenshot%202024-04-03%20at%2006.36.22.png">
+<img width="500" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/mse.png">
 
-<img width="759" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/decision_tree">
+<img width="500" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/tree.png">
 
 Итоговые метрики
 
-<img width="606" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/Screenshot%202024-04-03%20at%2006.36.42.png">
+<img width="500" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW2/metrics.png">
