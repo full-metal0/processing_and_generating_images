@@ -5,6 +5,19 @@
 Задача: Множественная классификация
 Датасет: CIFAR-10
 
+## Классы
+* airplane
+* automobile
+* bird
+* cat
+* deer
+* dog
+* frog
+* horse
+* ship
+* truck
+
+
 Модель:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/model_2.png)
