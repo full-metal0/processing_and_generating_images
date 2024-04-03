@@ -1,7 +1,9 @@
 # Processing_and_generating_images
 
 Калганов Илья
+
 Задача: Множественная классификация
+
 Датасет: CIFAR-10
 
 # Feature extractor:
