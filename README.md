@@ -4,14 +4,14 @@
 Задача: Множественная классификация
 Датасет: CIFAR-10
 
-Feature extractor:
+# Feature extractor:
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/model.png)
 
-## Обучение на полном датасете:
+# Обучение на полном датасете:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/model_1.png)
 
-Графики:
+## Графики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/loss_1.png)
 
@@ -21,21 +21,21 @@ Feature extractor:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/f1_1.png)
 
-Метрики:
+## Метрики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/metrics_1.png)
 
-Демонстрация работы: 
+## Демонстрация работы: 
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/result_1.png)
 
-Итог: Модель обучилась значительно быстрее, примерно сохранив значения метрик HW1.
+### Итог: Модель обучилась значительно быстрее, примерно сохранив значения метрик HW1.
 
-## Обучение на 50% датасете:
+# Обучение на 50% датасете:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/model_2.png)
 
-Графики:
+## Графики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/loss_2.png)
 
@@ -45,21 +45,21 @@ Feature extractor:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/f1_2.png)
 
-Метрики:
+## Метрики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/metrics_2.png)
 
-Демонстрация работы: 
+## Демонстрация работы: 
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/result_2.png)
 
-Итог: Метрики снизились незначительно. При этом для обучения потребовалось большее количество эпох, ввиду меньшего размера датасета. Обучение заняло еще меньше времени в сравнении с первой моделью.
+### Итог: Метрики снизились незначительно. При этом для обучения потребовалось большее количество эпох, ввиду меньшего размера датасета. Обучение заняло еще меньше времени в сравнении с первой моделью.
 
-## Обучение на 10% датасете: 
+# Обучение на 10% датасете: 
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/model_3.png)
 
-Графики:
+## Графики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/loss_3.png)
 
@@ -69,12 +69,12 @@ Feature extractor:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/f1_3.png)
 
-Метрики:
+## Метрики:
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/metrics_3.png)
 
-Демонстрация работы: 
+## Демонстрация работы: 
 
 ![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW3/result_3.png)
 
-Итог: Значения несколько метрик упали, время тоже.
+### Итог: Метрики понизились, соответственно как и время обучения.
