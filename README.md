@@ -38,4 +38,4 @@
 
 ## Демонстрация работы:
 
-![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/images.png)
+![image](https://github.com/full-metal0/processing_and_generating_images/blob/HW1/result.png)
