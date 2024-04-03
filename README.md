@@ -34,7 +34,7 @@
 
 ## Метрики:
 
-<img width="400" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW1/metrics.png)">
+<img width="400" alt="image" src="https://github.com/full-metal0/processing_and_generating_images/blob/HW1/metrics.png">
 
 ## Демонстрация работы:
 
